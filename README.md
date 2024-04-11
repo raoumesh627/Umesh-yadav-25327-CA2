@@ -26,4 +26,4 @@ What I Learned:
 4. Improving Resource Use: Adding real movie pictures and using the right font became easier with practice.
 
 Conclusion:
-Making this app wasn't easy. We faced challenges, made mistakes, but in the end, we learned a lot. By fixing our mistakes and listening to feedback, we made a better app that works well for users.
+Making this app wasn't easy. i faced challenges, made mistakes, but in the end, i learned a lot. By fixing my mistakes and listening to feedback from friends, i made a better app that works well for users.
