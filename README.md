@@ -10,14 +10,14 @@ We made a mobile app in Kotlin for browsing movies and picking seats. We faced s
 
 Challenges:
 
-1. Picking Random Seats: Making the app pick seats randomly and getting it to work smoothly was tough.
-2. Making the App Look Right: Designing the app to match what we wanted was a bit tricky.
-3. Using External Stuff: Adding real movie pictures and making sure the font was right was harder than expected.
+1. Picking Random Seats: Making the app pick seats randomly and getting it to work smoothly was tough. i watch some video on youtube after long a got success.
+2. it was new to me to make a project and doing it good as i can do and  Making the App Look Right: Designing the app to match what we wanted was a bit tricky. 
+3. Using External Stuff: Adding  movie pictures and making sure the font was right was harder than expected.
 
 Mistakes:
-1. Messy Data Handling: At first, we didn't handle the movie data well, so it caused issues.
-2. Seat Picking Problems: Figuring out how to stop people from picking seats they shouldn't was tricky and took a few tries.
-3. Not Matching the Design: The app didn't look exactly like what we planned at first.
+
+1. Seat Picking Problems: Figuring out how to stop people from picking seats they shouldn't was tricky and took a few tries.
+2. Not Matching the Design: The app didn't look exactly like what we planned at first.
 
 What I Learned:
 1. Better Data Handling: We got better at organizing and using the movie info.
